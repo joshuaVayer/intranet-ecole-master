@@ -8,3 +8,4 @@ Correction bug affichage
  	a.Création des formulaires
  	b.Création de la base de données
  	c.Création de fonctions
+ 3 - Synchronisation
