@@ -7,3 +7,4 @@ Correction bug affichage
  2 - CRUD :
  	a.Création des formulaires
  	b.Création de la base de données
+ 	c.Création de fonctions
