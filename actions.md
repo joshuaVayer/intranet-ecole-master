@@ -6,3 +6,4 @@ Correction bug affichage
  	c.Mise en place du style
  2 - CRUD :
  	a.Création des formulaires
+ 	b.Création de la base de données
