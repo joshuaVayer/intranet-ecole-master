@@ -9,3 +9,4 @@ Correction bug affichage
  	b.Création de la base de données
  	c.Création de fonctions
  3 - Synchronisation
+ 	a.Connection interface
