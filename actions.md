@@ -10,3 +10,6 @@ Correction bug affichage
  	c.Création de fonctions
  3 - Synchronisation
  	a.Connection interface
+ 	b.Connection Create
+ 	c.Connection Update
+ 	d.Connection Delete
